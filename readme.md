@@ -60,7 +60,7 @@ uvicorn main:app --reload
 
 After a successful run you should see something like the following:
 
-## ![](./images/successfullrun.png)
+## ![](./images/successfullrun.PNG)
 
 
 ## Usage
