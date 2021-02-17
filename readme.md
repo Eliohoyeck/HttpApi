@@ -76,7 +76,7 @@ This function shows the number of episodes depending on the season or multiple s
 
 
 
-![](./images/numberofepisodes.png)
+![](./images/numberofepisodes.PNG)
 
 
 ------
@@ -88,7 +88,7 @@ This function shows the title depending on the season and episode specified by t
 
 
 
-![](./images/titleofepisodes.png)
+![](./images/titleofepisodes.PNG)
 
 
 ------
@@ -111,11 +111,11 @@ This function shows how each error is treated in a different way depending on th
 
 
 
-![](./images/error1.png)
+![](./images/error1.PNG)
 ------
-![](./images/error2.png)
+![](./images/error2.PNG)
 ------
-![](./images/error3.png)
+![](./images/error3.PNG)
 
 
 ------
